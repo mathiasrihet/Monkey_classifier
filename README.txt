@@ -8,8 +8,7 @@ To successfully use this monkey classifier assure you to:
 Notes:
 #Pasting directly the .csv file to load in this directory will simplify the process a lot.
 
-#The monkeys.csv file already here is the one we needed to download on Arche with the 'color' column replaced by 'fur_color'
- indeed, exercises specified to use a 'fur_color' column and not a 'color' column.
+#The monkeys.csv file already here is the one initially used for the project.
 
 #Don't hesitate to also use '-h' on subcommand
 
